@@ -1,0 +1,60 @@
+<html>
+    <head>
+	<style type="text/css">
+	    body {
+/*			background:darkblue;*/
+		}
+	    * {
+			padding: 0;
+			margin: 0;
+	    }
+	    @font-face {
+			font-family: 'Abel';
+			src: url('Abel-Regular.woff') format('woff');
+			font-weight: normal;
+			font-style: normal;
+	    }
+	    .container {
+			width: 100%;
+			margin-top: 40px;
+			padding: 0 10px;
+			box-sizing: border-box;
+			font-family: 'Abel', sans-serif;
+			color: #fff;
+			text-shadow: 0 0 15px rgba(0, 0, 0, 0.21);
+	    }
+	    .cont-left {
+			display: inline-block;
+	    }
+	    .cont-right {
+			display: inline-block;
+			float: right;
+			text-align: right;
+	    }
+	    #time, #weather {
+			font-size: 30px;
+			margin-bottom: 5px;
+	    }
+	</style>
+		<title>Minimalock</title>
+		<meta name="author" content="Arnaud P. Crowther">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1.0">
+		<script type="text/javascript" src="jquery.js"></script>
+		<script type="text/javascript" src="weather.js"></script>
+		<script type="text/javascript" src="towords.js"></script>
+		<script type="text/javascript" src="options.js"></script>
+		<script type="text/javascript" src="init.js"></script>
+    </head>
+    <body>
+		<div class="container">
+			<div class="cont-left">
+				<div id="time"></div>
+				<div id="date"></div>
+			</div>
+			<div class="cont-right">
+				<div id="weather"></div>
+				<div id="daysalive"></div>
+			</div>
+		</div>
+    </body>
+</html>

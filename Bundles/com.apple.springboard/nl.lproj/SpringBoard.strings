@@ -1,0 +1,562 @@
+"AWAY_LOCK_LABEL" = " ";
+"AWAY_LOCK_LABEL_SHORT" = " ";
+"AWAY_LOCK_LABEL_FORMAT" = " ";
+"AWAY_LOCK_EMERGENCY_LABEL" = " ";
+"AWAY_LOCK_BUDDY_LABEL" = " ";
+"AWAY_SMS_LABEL" = "Text";
+"AWAY_MISSED_CALL_LABEL" = "Missed Call";
+"AWAY_MISSED_VOICEMAIL_LABEL" = "Voicemail";
+"VOICEMAIL_AVAILABLE" = "Voicemail Available";
+"AWAY_EMPTY_CALL" = "Unknown";
+"AWAY_EMPTY_SMS" = "Unknown";
+"AWAY_EMPTY_VM" = "Unknown";
+"AWAY_CALENDAR_LABEL" = "Event";
+"REMOTE_NOTIFICATIONS_LOCK_FORMAT" = " ";
+"REMOTE_NOTIFICATIONS_LOCK_LABEL" = " ";
+"DISMISS_ALERT" = "Dismiss";
+"DONE" = "Done";
+"REPLY" = "Reply";
+"REDIAL" = "Redial";
+"ACCEPT" = "Accept";
+"SMS_READ" = "Read";
+"SMS_ALERT_TITLE" = "Text Message";
+"SLIDE_TO_ANSWER" = " ";
+"POWER_DOWN_LINE_1" = "hold button down";
+"POWER_DOWN_LINE_2" = "to power off";
+"PIN_LOCKED_STRING" = "Your SIM card is locked. Would you like to unlock it?";
+"UNLOCK" = " ";
+"IPOD_ONLY" = "iPod";
+
+"NEW_VOICEMAIL" = "New Voicemail";
+"NEW_VOICEMAIL_BODY" = "Voicemail";
+"NEW_VOICEMAIL_FROM" = "New Voicemail from %@";
+"SLIDE_TO_LISTEN" = " ";
+"LISTEN" = "Listen";
+
+"CALLING" = "calling…";
+"CALLING_LABEL_FORMAT" = "calling %@…";
+
+"SLIDE_TO_CALL_BACK" = " ";
+"SLIDE_TO_CALL_BACK_SHORT" = " ";
+"CALL_BACK" = "Call Back";
+"CALL_FAILURE" = "Call Failure";
+"CALL_WITH" = "Call with %@: %@";
+
+"PIN_LOCKED_TITLE" = "SIM Locked";
+"ENTER_PIN_TITLE" = "Enter PIN";
+"PIN_ATTEMPT_REMAINING" = "1 attempt remaining";
+"PIN_ATTEMPTS_REMAINING" = "%@ attempts remaining";
+"WAITING_RESPONSE_TITLE" = "Unlocking…";
+"WAIT_FOR_UNLOCK" = "please wait";
+"PIN_UNLOCK_FAILED_TITLE" = "Incorrect PIN";
+
+"PUK_LOCKED_TITLE" = "PUK Locked";
+"ENTER_PUK_TITLE" = "Enter PUK";
+"PUK_LOCKED_STRING" = "Your SIM cannot be accessed. Please call your carrier to obtain your PUK code.";
+"PUK_LOCKED_ENTER_PIN" = "Enter PIN";
+"PUK_LOCKED_ENTER_PIN_LABEL" = "choose a new PIN code";
+"PUK_LOCKED_CONFIRM_PIN" = "Confirm new PIN";
+"PUK_LOCKED_CONFIRM_PIN_LABEL" = "re-enter new PIN code";
+"PUK_UNLOCK_FAILED_TITLE" = "Incorrect PUK";
+"PUK_LOCKED_PIN_MISMATCH_LABEL" = "previous PINs did not match";
+"BRICKED_AND_SIM_LOCKED_STRING_IPHONE" = "Insert a valid SIM with no PIN lock to activate iPhone.";
+"BRICKED_AND_SIM_LOCKED_STRING_IPAD" = "Insert a valid SIM with no PIN lock to activate iPad.";
+"PUK_HOPELESSLY_LOCKED_TITLE" = "PUK Exhausted";
+"PUK_HOPELESSLY_LOCKED_STRING" = "You have exhausted all attempts to unlock your SIM. Please contact your carrier.";
+
+"MISSING_SIM_TITLE" = "No SIM Card Installed";
+"LOCKED_SIM_TITLE" = "Incorrect SIM";
+
+"PERSONALIZATION_LOCK_ENTER_CODE" = "Enter Code";
+"PERSONALIZATION_UNLOCK_FAILED_TITLE" = "Incorrect Code";
+
+"NETWORK_LOCKED_LABEL" = "network personalization";
+"OPERATOR_LOCKED_LABEL" = "operator personalization";
+"OPERATOR_SS_LOCKED_LABEL" = "operator subset personalization";
+"CORPORATE_LOCKED_LABEL" = "corporate personalization";
+"SERVICE_PROVIDER_LOCKED_LABEL" = "service provider personalization";
+
+"PERSONALIZATION_LOCKED_SIM_STRING" = "This iPhone must be used with an approved SIM.";
+
+"NETWORK_LOCKED_SIM_STRING" = "Your phone is tied to a specific SIM card.";
+"OPERATOR_LOCKED_SIM_STRING" = "Your phone is tied to SIM cards issued by a specific network operator.";
+"OPERATOR_SUBSET_LOCKED_SIM_STRING" = "Your phone is tied to specific SIM cards issued by a specific network provider.";
+"CORPORATE_LOCKED_SIM_STRING" = "Your phone is tied to specific corporate-issued SIM cards.";
+"SERVICE_PROVIDER_LOCKED_SIM_STRING" = "Your phone is tied to SIM cards issued by a specific service provider.";
+
+"DURATION_PREAMBLE" = "Touch to return to call";
+"PLEASE_WAIT" = "Please Wait…";
+"BAD_SIM_TITLE" = "SIM Failure";
+"BAD_SIM_STRING" = "Your SIM needs to be replaced.  Please contact your service provider.";
+"CHARS_REMAINING" = "%@ characters remaining";
+"CHAR_REMAINING" = "%@ character remaining";
+"UNKNOWN" = "Unknown";
+"BLOCKED" = "Blocked";
+"CANCEL" = "Cancel";
+"BACK" = "Back";
+"SEND" = "Send";
+"YES" = "Yes";
+"NO" = "No";
+"NEW_TEXT_MESSAGE" = "New Text Message";
+
+"VIEW" = "View";
+"CLOSE" = "Close";
+"POWER_DOWN_LOCK_LABEL" = " ";
+"POWER_DOWN_CANCEL" = "Cancel";
+"DIAL" = "Dial";
+"NO_SERVICE" = "No Service";
+"SEARCHING" = "Searching…";
+"SOS_ONLY" = "SOS only";
+"NO_SIM" = "No SIM";
+"BAD_SIM" = "Invalid SIM";
+"LOCKED_SIM" = "Locked SIM";
+"MULTIPLE_CALLS" = "Multiple Calls";
+"CONFERENCE_CALL" = "Conference";
+
+"Call Failure\n%@\n%@" = "Call Failure\n%@\n%@";
+
+"MOBILITY_MANAGEMENT_FORMAT_STRING" = "MM #%d";
+"Smart chip not provisioned" = "SIM not provisioned";
+"Smart chip not allowed" = "SIM not allowed";
+"Call failed" = "Call failed";
+"Phone not allowed" = "Phone not allowed";
+
+"FIXED_DIALING_LOCKED_SIM_TITLE" = "Fixed Number Dialing Active";
+"FIXED_DIALING_LOCKED_SIM_STRING" = "Your SIM has fixed number dialing active.  You will only be able to make emergency calls.";
+
+"TTY (No SIM)" = "TTY (No SIM)";
+"TTY" = "TTY";
+"USE_TTY_FOR_CALL" = "Use TTY for this call?";
+
+"ENTER_PASSCODE" = "Enter Passcode";
+"WRONG_PASSCODE" = "Wrong Passcode";
+"TRY_AGAIN" = "try again";
+"DEVICE_BLOCKED" = "%@ is disabled";
+"EMERGENCY_CALL" = "Emergency call";
+"EMERGENCY_CALL_TITLE" = "Emergency\nCall";
+"CONNECT_TO_ITUNES" = "connect to iTunes";
+"ONE_MINUTE_TO_UNBLOCK" = "try again in 1 minute";
+"MULTIPLE_MINUTES_TO_UNBLOCK" = "try again in %@ minutes";
+
+"ALPHANUMERIC_PASSCODE_OK" = "OK";
+"ALPHANUMERIC_PASSCODE_CANCEL" = "Cancel";
+
+"VOD_OK" = "OK";
+
+"LOCAL_NOTIFICATION_SNOOZE" = "Snooze";
+
+"LOW_BATT_TITLE" = "Low Battery";
+"LOW_BATT_MSG_LEVEL" = "%@ of battery remaining";
+
+"AUTO_WIFI_SYNC_LOW_POWER" = "Automatic iTunes Wi-Fi Sync will resume when charged.";
+"AUTO_WLAN_SYNC_LOW_POWER" = "Automatic iTunes WLAN Sync will resume when charged.";
+"WIFI_SYNC_LOW_POWER" = "iTunes Wi-Fi Sync will resume when charged.";
+"WLAN_SYNC_LOW_POWER" = "iTunes WLAN Sync will resume when charged.";
+"SYNC_LOW_POWER" = "iTunes Sync will resume when charged.";
+
+"NETWORK_LOST" = "Network Lost";
+"NETWORK_RESTRICTED" = "Restricted Network";
+"SETTINGS" = "Settings";
+"NETWORK_LOST_TEXT" = "Your selected cellular network is no longer available. You can choose a different network in Settings.";
+"NETWORK_RESTRICTED_TEXT" = "Your selected cellular network is restricted. You can choose a different network in Settings.";
+"NETWORK_LOST_LOCK_LABEL" = " ";
+"NETWORK_LOST_LOCK_LABEL_SHORT" = "choose";
+
+"CALL" = "Call";
+
+"OK" = "OK";
+
+"TIMER_LOCK_LABEL" = " ";
+"COUNT_DOWN_TIME_REACHED" = "Timer Done";
+
+"LOW_DISK_SPACE_TITLE" = "Storage Almost Full";
+"LOW_DISK_SPACE_MESSAGE" = "You can manage your storage in Settings.";
+"LOW_DISK_SPACE_DISMISS" = "Done";
+"LOW_DISK_SPACE_SETTINGS" = "Settings";
+
+"DEAD_RADIO_TITLE" = "Restore Needed";
+"DEAD_RADIO_MESSAGE" = "iPhone cannot make or receive calls. Restore from iTunes.\nwww.apple.com/support";
+
+"DEVICE_INACTIVE" = "Activate iPhone";
+"ACTIVATION_REQUIRED" = "Activation Required";
+"PHONE_ACTIVATED" = "iPhone is activated";
+"WAITING_FOR_ACTIVATION_TITLE" = "Waiting for Activation";
+"WAITING_FOR_ACTIVATION_BODY" = "This may take some time.";
+"ACTIVATION_FAILED_TITLE" = "iPhone is not Activated";
+"ACTIVATION_FAILED_BODY" = "Contact your carrier if this problem continues to occur.";
+"ACTIVATION_FAILED_BODY_SUPPORT" = "Contact your carrier at %@ from another phone if this problem continues to occur.";
+"ACTIVATION_FAILED_IGNORE_BUTTON" = "Ignore";
+"ACTIVATION_FAILED_RETRY_BUTTON" = "Try Again";
+"MISMATCHED_SIM_TITLE" = "Different SIM detected";
+"MISMATCHED_SIM_BODY" = "Please connect to iTunes";
+"REGISTRATION_FAILED_TITLE" = "Activation Alert";
+"REGISTRATION_FAILED_BODY" = "No signal detected. Signal is required to complete activation.";
+
+"CALL_FORWARDING_ACTIVE" = "Call Forwarding Active";
+"OUTGOING_CALL_FORWARDED" = "Outgoing Call Forwarded";
+"INCOMING_CALL_FORWARDED" = "Incoming Call Forwarded";
+
+"AIRPLANE_DATA_PROMPT" = "Turn Off Airplane Mode or Use Wi-Fi to Access Data";
+"AIRPLANE_DATA_PROMPT_WLAN" = "Turn Off Airplane Mode or Use WLAN to Access Data";
+"AIRPLANE_DATA_PROMPT_NO_WIFI" = "Turn Off Airplane Mode to Access Data";
+"AIRPLANE_DATA_OK" = "OK";
+"AIRPLANE_DATA_SETTINGS" = "Settings";
+"AIRPLANE_CELL_PROMPT" = "You must disable airplane mode to access data.";
+"AIRPLANE_CELL_PROMPT_SMS" = "You must disable airplane mode to send or receive messages.";
+
+"IN_CALL_LAUNCH_ALERT" = "Cellular data connections are not available during this call.";
+"IN_CALL_LAUNCH_OK" = "OK";
+
+"PIN_ENTRY_SUCCESS" = "PIN Entry Succeeded";
+"PUK_ENTRY_SUCCESS" = "PUK Entry Succeeded";
+
+"SLIDE_TO_CANCEL" = " ";
+
+"RESTORE_IN_PROGRESS" = "Restore in Progress";
+"RESTORE_COMPLETE" = "Restore complete";
+"RESTORE_FAILED" = "Restore failed";
+
+"RESTORE_FAILURE_ALERT_RESTART_BUTTON_TITLE" = "Restart";
+"RESTORE_FAILURE_ALERT_BODY_TEXT" = "There was a problem during restore.  Please restart your %@ and try restoring again.";
+
+"RESET_IN_PROGRESS" = "Resetting %@";
+"RESET_COMPLETE" = "Reset complete";
+
+"NO_NAME" = "Unknown";
+
+"HEADSET_VOLUME" = "headset";
+"BLUETOOTH_VOLUME" = "bluetooth";
+"RINGER_VOLUME" = "ringer";
+"SOUND_EFFECTS_VOLUME" = "sound effects";
+"VOLUME" = "volume";
+"HEADPHONES" = "headphones";
+"VOLUME_HUD_FORMAT" = "(%@)";
+
+"RE-CALIBRATE COMPASS" = "Compass Interference";
+"RE-CALIBRATE_INSTRUCTION_IPHONE" = "Move away from any interference, or\nre-calibrate by waving iPhone in a figure 8 motion.";
+"RE-CALIBRATE_INSTRUCTION_IPOD" = "Move away from any interference, or\nre-calibrate by waving iPod in a figure 8 motion.";
+"RE-CALIBRATE_INSTRUCTION_IPAD" = "Move away from any interference, or\nre-calibrate by waving iPad in a figure 8 motion.";
+
+"EDGE_FAILURE" = "Could not activate cellular data network";
+"EDGE_FAILURE_SETTINGS" = "Settings";  
+"EDGE_ROAMING_FAILURE_TITLE" = "Data Roaming is turned off";
+"EDGE_ROAMING_FAILURE_BODY" = "Use Wi-Fi or enable data roaming in Settings > General > Network. Additional fees may apply.";
+"EDGE_ROAMING_FAILURE_BODY_WLAN" = "Use WLAN or enable data roaming in Settings > General > Network. Additional fees may apply.";
+"EDGE_ROAMING_FAILURE_BODY_NO_WIFI" = "Enable data roaming in Settings > General > Network. Additional fees may apply.";
+"EDGE_ROAMING_FAILURE_BODY_IPAD" = "Use Wi-Fi or enable data roaming in Settings > Cellular Data. Additional fees may apply.";
+"EDGE_ROAMING_FAILURE_BODY_IPAD_WLAN" = "Use WLAN or enable data roaming in Settings > Cellular Data. Additional fees may apply.";
+"EDGE_ROAMING_FAILURE_BODY_IPAD_NO_WIFI" = "Enable data roaming in Settings > Cellular Data. Additional fees may apply.";
+"EDGE_OFF_FAILURE_TITLE" = "Cellular Data is Turned Off";
+"EDGE_OFF_FAILURE_BODY" = "Turn on cellular data or use Wi-Fi to access data.";
+"EDGE_OFF_FAILURE_BODY_WLAN" = "Turn on cellular data or Use WLAN to access data";
+"EDGE_OFF_FAILURE_BODY_NO_WIFI" = "Turn on cellular data to access data.";
+"EDGE_OFF_FAILURE_BODY_IPAD" = "Turn on cellular data or use Wi-Fi to access data.";
+"EDGE_OFF_FAILURE_BODY_IPAD_WLAN" = "Turn on cellular data or Use WLAN to access data";
+"EDGE_OFF_FAILURE_BODY_IPAD_NO_WIFI" = "Turn on cellular data to access data.";
+"EDGE_OK" = "OK";
+
+"kGprsIllegalMs" = "Illegal MS";
+"kGprsIllegalMe" = "Illegal ME";
+"kGprsServicesNotAllowed" = "GPRS services not allowed";
+"kGprsPlmnNotAllowed" = "PLMN not allowed";
+"kGprsLocationAreaNotAllowed" = "Location area not allowed";
+"kGprsRoamingNotAllowedInLocationArea" = "Roaming not allowed in this location area";
+"kGprsServiceOptionNotSupported" = "Service option not supported";
+"kGprsServiceOptionNotSubscribed" = "You are not subscribed to a cellular data service";
+"kGprsServiceOptionTemporarilyOutOfOrder" = "The cellular data network is temporarily unavailable";
+"kGprsPdpAuthenticationFailure" = "PDP authentication failure";
+"kGprsInvalidMobileClass" = "Invalid mobile class";
+
+"IPOD" = "iPod";
+"MUSIC" = "Music";
+
+"SETTING_LANGUAGE" = "Setting Language…";
+// Localized device name capabilities
+"iPod" = "iPod";
+"iPad" = "iPad";
+"iPhone" = "iPhone";
+
+"EXPIRED_FORMAT" = "Your rental period for “%@” has expired";
+"WARNING_DAYS_FORMAT" = "You have %@ days to watch “%@” and then it will be deleted";
+"WARNING_DAY_FORMAT" = "You have %@ day to watch “%@” and then it will be deleted";
+"WARNING_HOURS_FORMAT" = "You have %@ hours to watch “%@” and then it will be deleted";
+"WARNING_HOUR_FORMAT" = "You have %@ hour to watch “%@” and then it will be deleted";
+"WARNING_MINUTES_FORMAT" = "You have %@ minutes to watch “%@” and then it will be deleted";
+"WARNING_MINUTE_FORMAT" = "You have %@ minute to watch “%@” and then it will be deleted";
+
+"NEWSSTAND_ICON_TITLE" = "Newsstand";
+"NEWSSTAND_FOLDER_TITLE" = "Newsstand";
+"NEWSSTAND_STORE_BUTTON_TITLE" = "Store";
+"NEWSSTAND_NEWISSUEBADGE_TITLE" = "New";
+
+"DELETE_ICON_TITLE" = "Delete Icon";
+"DELETE_ICON_BODY" = "Are you sure you want to delete the bookmark “%@”?";
+"DELETE_ICON_CONFIRM" = "Delete";
+"DELETE_ICON_CANCEL" = "Cancel";
+
+"DELETE_WIDGET_TITLE" = "Delete “%@”";
+"DELETE_WIDGET_BODY" = "Are you sure you want to delete “%@”?";
+"DELETE_WIDGET_CONFIRM" = "Delete";
+"DELETE_WIDGET_CANCEL" = "Cancel";
+
+"UNINSTALL_ICON_TITLE" = "Delete “%@”";
+"UNINSTALL_ICON_TITLE_FOR_APP_WITH_DOCUMENTS_IN_CLOUD" = "Delete “%@”";
+"UNINSTALL_ICON_TITLE_FOR_APP_WITH_DOCUMENTS_UPDATES_PENDING" = "Document Updates Pending";
+"UNINSTALL_ICON_BODY" = "Deleting “%@” will also delete all of its data.";
+"UNINSTALL_ICON_BODY_MULTIPLE" = "Deleting “%@” will also delete %@ and all of its data.";
+"UNINSTALL_ICON_BODY_FOR_APP_WITH_DOCUMENTS_IN_CLOUD" = "Deleting “%@” will also delete all of its data from this %@. Any documents & data stored in iCloud will not be deleted and can be managed in Settings.";
+"UNINSTALL_ICON_BODY_FOR_APP_WITH_DOCUMENTS_UPDATES_PENDING" = "Some documents in iCloud have pending updates. These updates will be lost if you delete “%@” now.";
+"UNINSTALL_ICON_CONFIRM" = "Delete";
+"UNINSTALL_ICON_CANCEL" = "Cancel";
+
+"RATINGS_ICON_TITLE" = "Please rate “%@” before deleting.";
+"RATINGS_ICON_BODY" = "Tap a star to rate.";
+"RATINGS_ICON_SKIP" = "No Thanks";
+"RATINGS_ICON_RATE" = "Rate";
+
+"GAMECENTER_DELETE_STATS_TITLE" = "Remove \"%@\" from Game Center?";
+"GAMECENTER_DELETE_STATS_BODY" = "You will no longer be listed on leaderboards for \"%@\".";
+"GAMECENTER_DELETE_STATS_DELETE" = "Remove";
+"GAMECENTER_DELETE_STATS_CANCEL" = "Keep";
+
+"REORDER_INFO_TEXT" = "Tap and hold an icon to enter reorder mode. Click the menu button to stop.";
+"REORDER_INFO_TITLE" = "Edit Home Screen";
+"REORDER_INFO_BODY" = "To rearrange icons, touch and hold any icon until it starts to wiggle, then drag icons to desired locations.\nDrag an icon to the far right to create additional Home screens.\nPress the Home button when done.";
+
+"CARRIER_DEBUGGING_TITLE" = "Configured for Diagnostics";
+"CARRIER_DEBUGGING_BODY" = "This device is configured to send diagnostic information to Apple.\nAll usage information, including your personal information, will appear in the reports sent to Apple. Testers of this pre-release software are expected to submit this data.\nShould you have a business need to disable this feature please contact your employer for instructions.";
+
+"UNHANDLED_URL_TITLE" = "Unsupported URL";
+"UNHANDLED_URL_BODY" = "This URL wasn't loaded:\n%@";
+
+"RESTRICTED_URL_TITLE" = "Restricted URL";
+"RESTRICTED_URL_BODY" = "This URL wasn't loaded:\n%@";
+
+"CALL_PERMISSION_ALERT_CALL" = "Call";
+"CALL_PERMISSION_ALERT_CANCEL" = "Cancel";
+
+"DOWNLOADING_ICON_LABEL" = "Loading…";
+"INSTALLING_ICON_LABEL" = "Installing…";
+"PAUSED_ICON_LABEL" = "Paused";
+"RESTRICTED_ICON_LABEL" = "Restricted";
+"WAITING_ICON_LABEL" = "Waiting…";
+
+"APP_DOWNLOAD_QUEUE_ERROR" = "Cannot retrieve download information.  Please connect with iTunes.";
+
+"PENDING_DOWNLOAD_REMOVED_TITLE" = "Downloads Completed";
+"PENDING_DOWNLOAD_REMOVED_BODY" = "Some downloads have been completed in iTunes on your computer.";
+"PENDING_DOWNLOAD_REMOVED_OK" = "Dismiss";
+
+"ALL_PENDING_DOWNLOADS_REMOVED_TITLE" = "Downloads Completed";
+"ALL_PENDING_DOWNLOADS_REMOVED_BODY" = "All downloads have been completed in iTunes on your computer.";
+"ALL_PENDING_DOWNLOADS_REMOVED_OK" = "Dismiss";
+
+"ENTER_CURRENT_PASSCODE" = "To change your passcode, first enter your current passcode.";
+"ENTER_NEW_PASSCODE" = "New passcode";
+"CONFIRM_NEW_PASSCODE" = "Re-enter your new passcode";
+"CONFIRM_NEW_PASSCODE_MISMATCH" = "The new passcodes did not match. %@";
+
+"PASSCODE_ALERT_EMERGENCY" = "Emergency";
+"PASSCODE_ALERT_CANCEL" = "Cancel";
+"PASSCODE_ALERT_NEXT" = "Continue";
+"PASSCODE_ALERT_DONE" = "Save";
+"PASSCODE_ALERT_TITLE" = "Passcode Requirement";
+"PASSCODE_ALERT_INCORRECT_PASSCODE" = "Incorrect passcode. Enter your current passcode.";
+
+"NON_COMPLIANT_PASSCODE_LATER" = "Later";
+"NON_COMPLIANT_PASSCODE_CONTINUE" = "Continue";
+"PASSCODE_REMINDER_CANCEL" = "Not Now";
+"PASSCODE_REMINDER_CONTINUE" = "Continue";
+
+"AFTER_CLTM_SHUTDOWN_BODY_IPHONE" = "iPhone shut down due to temperature.";
+"AFTER_CLTM_SHUTDOWN_BODY_IPAD" = "iPad shut down due to temperature.";
+"AFTER_CLTM_SHUTDOWN_BODY_IPOD" = "iPod shut down due to temperature.";
+
+"IPHONE_TOO_HOT" = "Temperature";
+
+"FIREWIRE_ALERT_STRING" = "Charging is not supported\nwith this accessory";
+"THERMAL_ALERT_STRING_IPHONE" = "iPhone needs to cool down\nbefore you can use it.";
+"THERMAL_ALERT_STRING_IPAD" = "iPad needs to cool down\nbefore you can use it.";
+"THERMAL_ALERT_STRING_IPOD" = "iPod needs to cool down\nbefore you can use it.";
+
+"APP_PROFILE_EXPIRED_BODY" = "The application “%@” cannot be opened because the provisioning profile has expired.";
+"APP_PROFILE_EXPIRED_OK" = "OK";
+
+"APP_PROFILE_NOT_TRUSTED_BODY" = "Are You Sure You Want to Open the Application “%@” from the Developer “%@”?";
+"APP_PROFILE_NOT_TRUSTED_CONFIRM" = "Continue";
+"APP_PROFILE_NOT_TRUSTED_CANCEL" = "Quit";
+
+"MULTIPLE_NEW_MESSAGE_HIDDEN_PREVIEW" = "%@ New Text Messages";
+"AWAY_MASKED_SMSES_LABEL" = "Text Messages";
+"AWAY_MASKED_SMS_LABEL" = "Text Message";
+
+"SIMULATOR_CARRIER_STRING" = "Carrier";
+
+"PRINT_CENTER_TITLE" = "Print Center";
+
+"SEARCH_BAR_PLACEHOLDER" = "Search %@";
+"NO_SEARCH_RESULTS" = "No Results";
+"EMPTY_SEARCH_RESULT" = "(untitled)";
+"SEARCH_SUBTITLE_SEPARATOR" = " — ";
+"SEARCH_WEB" = "Search Web";
+"SEARCH_WIKIPEDIA" = "Search Wikipedia";
+"SEARCH_TOP_HIT" = "Top Hit";
+
+"ALL_DAY"   = "All-day";
+"YESTERDAY" = "Yesterday";
+"TODAY" = "Today";
+"TOMORROW" = "Tomorrow";
+"TODAY_TOMORROW_YESTERDAY_DATE_FORMAT" = "%@ %@";
+
+"REMOTE_NOTIFICATION_NEED_IDENTITY_ALERT_TITLE" = "Connect to iTunes to Use Push Notifications";
+"REMOTE_NOTIFICATION_NEED_IDENTITY_ALERT_BODY" = "“%@” notifications may include alerts, sounds and icon badges.";
+"REMOTE_NOTIFICATION_NEED_IDENTITY_ALERT_DISMISS" = "OK";
+
+"REMOTE_NOTIFICATION_PERMISSION_ALERT_TITLE" = "“%@” Would Like to Send You Push Notifications";
+"REMOTE_NOTIFICATION_PERMISSION_ALERT_BODY" = "Notifications may include alerts, sounds and icon badges. These can be configured in Settings.";
+"REMOTE_NOTIFICATION_CONTENT_DOWNLOAD_AND_PUSH_PERMISSION_ALERT_TITLE" = "“%@” Would Like to Send You New Issues and Push Notifications";
+"REMOTE_NOTIFICATION_CONTENT_DOWNLOAD_PERMISSION_ALERT_TITLE" = "“%@” Would Like to Send You New Issues";
+"REMOTE_NOTIFICATION_CONTENT_DOWNLOAD_ALERT_BODY" = "New issues will be automatically downloaded when on Wi-Fi. This can be configured in Settings.";
+"REMOTE_NOTIFICATION_PERMISSION_ALERT_DENY" = "Don't Allow";
+"REMOTE_NOTIFICATION_PERMISSION_ALERT_ALLOW" = "OK";
+
+"REMOTE_NOTIFICATION_SYSTEMWIDE_ALERT_TITLE" = "Turn On Push Notifications to Allow “%@” to Receive Sounds, Alerts and Badges";
+"REMOTE_NOTIFICATION_SYSTEMWIDE_ALERT_DISMISS" = "Cancel";
+"REMOTE_NOTIFICATION_SYSTEMWIDE_ALERT_SETTINGS" = "Settings";
+
+"REMOTE_NOTIFICATION_SIMULATOR_NOT_SUPPORTED_NSERROR_DESCRIPTION" = "remote notifications are not supported in the simulator";
+"REMOTE_NOTIFICATION_ENTITLEMENT_NSERROR_DESCRIPTION" = "no valid '%@' entitlement string found for application";
+
+"BACKGROUND_CONTINUATION_PERMISSION_ALERT_TITLE" = "“%@” Would Like to Run In The Background";
+"BACKGROUND_CONTINUATION_PERMISSION_ALERT_BODY" = "Running %@ in the background can be configured in Settings.";
+"BACKGROUND_CONTINUATION_PERMISSION_ALERT_DENY" = "Don't Allow";
+"BACKGROUND_CONTINUATION_PERMISSION_ALERT_ALLOW" = "OK";
+
+"BATTERY_CHARGE_PERCENTAGE" = "%@ Charged"; 
+
+"INTERNET_TETHERING_SINGLE_HOST" = "Personal Hotspot: 1 Connection";
+"INTERNET_TETHERING_MULTIPLE_HOSTS" = "Personal Hotspot: %@ Connections";
+
+"CLASS_0_ALERT_MESSAGE_FROM" = "Message from %@:";
+
+"APPLICATION_SWITCHER_TITLE" = "Applications";
+"APPLICATION_SWITCHER_CANCEL" = "Cancel";
+"APPLICATION_SWITCHER_QUITAPP" = "Quit";
+
+"DATA_PLAN_LATER" = "Later";
+"DATA_PLAN_NOW" = "Now";
+
+"DATA_PLAN_NEW_ACCOUNT_TITLE" = "Cellular Data Account";
+"DATA_PLAN_NEW_ACCOUNT_BODY" = "You have not signed up for a data plan. Would you like to set up a new account? If you don't, you can do it later in Settings.";
+
+"DATA_PLAN_DISABLE_TITLE" = "Cellular Data";
+"DATA_PLAN_DISABLE_BODY" = "If you do not want to be asked about a cellular data plan, you can turn off Cellular Data in Settings.";
+
+"DATA_PLAN_ADD_TITLE" = "Cellular Data Plan Usage";
+"DATA_PLAN_ADD_LOW_BODY" = "Only %@ of your data plan remains. Would you like to add more data to your plan now? If you don't add now, you can do it later in Settings.";
+"DATA_PLAN_ADD_EXPIRATION_BODY_MULTIPLE_DAYS" = "Your data plan expires in %@ days. Would you like to add more time to your plan now? If you don't add now, you can do it later in Settings.";
+"DATA_PLAN_ADD_EXPIRATION_BODY_ONE_DAY" = "Your data plan expires in 1 day. Would you like to add more time to your plan now? If you don't add now, you can do it later in Settings.";
+"DATA_PLAN_ADD_EXPIRATION_BODY_LESS_THAN_MULTIPLE_DAYS" = "Your data plan expires in less than %@ days. Would you like to add more time to your plan now? If you don't add now, you can do it later in Settings.";
+"DATA_PLAN_ADD_EXPIRATION_BODY_MULTIPLE_HOURS" = "Your data plan expires in about %@ hours. Would you like to add more time to your plan now? If you don't add now, you can do it later in Settings.";
+"DATA_PLAN_ADD_EXPIRATION_BODY_ONE_HOUR" = "Your data plan expires in about 1 hour. Would you like to add more time to your plan now? If you don't add now, you can do it later in Settings.";
+"DATA_PLAN_ADD_EXPIRATION_BODY_MULTIPLE_MINUTES" = "Your data plan expires in about %@ minutes. Would you like to add more time to your plan now? If you don't add now, you can do it later in Settings.";
+"DATA_PLAN_ADD_EMPTY_BODY" = "There is no data remaining on your current plan. Would you like to add more data now? If you don't add now, you can do it later in Settings.";
+
+"DATA_PLAN_ACTIVATED_TITLE" = "Data Plan Activated";
+"DATA_PLAN_ACTIVATED_FORMAT" = "Your %@ cellular data plan has been successfully activated.";
+
+"DATA_PLAN_UPDATED_TITLE" = "Cellular Data Plan Updated";
+"DATA_PLAN_UPDATED_FORMAT" = "Your %@ cellular data plan has been successfully updated.";
+
+"DATA_PLAN_FAILED_TITLE" = "Data Plan Activation Failure";
+"DATA_PLAN_FAILED_ACTIVATE_FORMAT" = "Your %@ cellular data plan did not successfully activate.";
+"DATA_PLAN_FAILED_UPDATE_FORMAT" = "Your %@ cellular data plan did not successfully update.";
+
+"DATA_PLAN_FAILED_TRY_LATER" = "Cancel";
+"DATA_PLAN_FAILED_TRY_AGAIN" = "Try Again";
+
+"ORIENTATION_LOCK_PORTRAIT_LOCKED" = "Portrait Orientation Locked";
+"ORIENTATION_LOCK_PORTRAIT_UNLOCKED" = "Portrait Orientation Unlocked";
+"ORIENTATION_LOCK_LANDSCAPE_LOCKED" = "Landscape Orientation Locked";
+"ORIENTATION_LOCK_UNLOCKED" = "Orientation Unlocked";
+
+"MUTE_ON" = "Mute On";
+"MUTE_OFF" = "Mute Off";
+
+/* format string for alarms on events in other time zones - #1 is main time string, #2 is time in other time zone (e.g. 'Today at 1:00 pm (4:00 pm EDT)')*/
+"ALARM_OTHER_TIMEZONE_FORMAT" = "%1$@ (%2$@)";
+
+"IBOOKS_UNSUPPORTED_TITLE" = "iBooks Update";
+"IBOOKS_UNSUPPORTED_BODY" = "Download the free update in the App Store.";
+"IBOOKS_UNSUPPORTED_DOWNLOAD" = "Download";
+"IBOOKS_UNSUPPORTED_CANCEL" = "Cancel";
+
+"BULLETIN_LIST_DONE" = "Done";
+"BULLETIN_LIST_CLEAR" = "Clear";
+"BULLETIN_LIST_NO_NEW_NOTIFICATIONS" = "No New Notifications";
+
+"SYNCING_ICON_LABEL" = "Syncing…";
+"CLEANING_ICON_LABEL" = "Cleaning…";
+
+// Software Update Alerts
+"SOFTWARE_UPDATE_AVAILABLE_ALERT_TITLE"  = "Software Update";
+"SOFTWARE_UPDATE_AVAILABLE_ALERT_BODY"   = "%@ is now available.";
+"SOFTWARE_UPDATE_AVAILABLE_ALERT_BODY_IPHONE" = "%@ is now available for your iPhone.";
+"SOFTWARE_UPDATE_AVAILABLE_ALERT_BODY_IPAD" = "%@ is now available for your iPad.";
+"SOFTWARE_UPDATE_AVAILABLE_ALERT_BODY_IPOD" = "%@ is now available for your iPod.";
+"SOFTWARE_UPDATE_AVAILABLE_ALERT_CANCEL" = "Close";
+"SOFTWARE_UPDATE_AVAILABLE_ALERT_ACTION" = "Details";
+
+"SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_TITLE"      = "Software Update";
+"SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_BODY_PLURAL"          = "%@ will be installed in %@ seconds. Your device will restart when installation is finished.";
+"SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_BODY_SINGULAR"        = "%@ will be installed in %@ second. Your device will restart when installation is finished.";
+"SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_BODY_PLURAL_IPHONE"   = "%@ will be installed in %@ seconds. Your iPhone will restart when installation is finished.";
+"SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_BODY_SINGULAR_IPHONE" = "%@ will be installed in %@ second. Your iPhone will restart when installation is finished.";
+"SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_BODY_PLURAL_IPAD"     = "%@ will be installed in %@ seconds. Your iPad will restart when installation is finished.";
+"SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_BODY_SINGULAR_IPAD"   = "%@ will be installed in %@ second. Your iPad will restart when installation is finished.";
+"SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_BODY_PLURAL_IPOD"     = "%@ will be installed in %@ seconds. Your iPod will restart when installation is finished.";
+"SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_BODY_SINGULAR_IPOD"   = "%@ will be installed in %@ second. Your iPod will restart when installation is finished.";
+"SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_CANCEL"     = "Later";
+"SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_ACTION"     = "Install";
+"SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_LOCK_LABEL" = " ";
+"SOFTWARE_UPDATE_FORCED_INSTALL_ALERT_LOCK_LABEL_SHORT" = "wait";
+
+"SOFTWARE_UPDATE_DOWNLOAD_FAILURE_ALERT_TITLE"        = "Software Update Failed";
+"SOFTWARE_UPDATE_DOWNLOAD_FAILURE_ALERT_BODY_GENERIC" = "An error occurred downloading %@.";
+"SOFTWARE_UPDATE_DOWNLOAD_FAILURE_ALERT_CANCEL"       = "Close";
+"SOFTWARE_UPDATE_DOWNLOAD_FAILURE_ALERT_ACTION"       = "Settings";
+
+"SOFTWARE_UPDATE_DOWNLOAD_FAILURE_STORAGE_ALERT_TITLE"  = "Cannot Download Update";
+"SOFTWARE_UPDATE_DOWNLOAD_FAILURE_STORAGE_ALERT_BODY"   = "There is not enough available storage to download %@. You can manage your storage in Settings.";
+"SOFTWARE_UPDATE_DOWNLOAD_FAILURE_STORAGE_ALERT_CANCEL" = "Close";
+"SOFTWARE_UPDATE_DOWNLOAD_FAILURE_STORAGE_ALERT_ACTION" = "Settings";
+
+"SOFTWARE_UPDATE_INSTALL_FAILURE_UNAVAILABLE_TITLE"  = "Software Update Unavailable";
+"SOFTWARE_UPDATE_INSTALL_FAILURE_UNAVAILABLE_BODY"   = "Software Update is not available at this time. Try again later.";
+"SOFTWARE_UPDATE_INSTALL_FAILURE_ALERT_TITLE"        = "Unable to Install Update";
+"SOFTWARE_UPDATE_INSTALL_FAILURE_GENERIC_ALERT_BODY" = "An error occurred installing %@.";
+"SOFTWARE_UPDATE_INSTALL_FAILURE_BATTERY_ALERT_BODY" = "Software update requires at least %@ battery, or to be connected to a power source.";
+"SOFTWARE_UPDATE_INSTALL_FAILURE_STORAGE_ALERT_BODY" = "Software update requires at least %@ of available storage.";
+"SOFTWARE_UPDATE_INSTALL_FAILURE_NETWORK_ALERT_BODY" = "Software update requires a network connection.";
+"SOFTWARE_UPDATE_INSTALL_FAILURE_ALERT_CANCEL"       = "Close";
+"SOFTWARE_UPDATE_INSTALL_FAILURE_ALERT_ACTION"       = "Settings";
+
+"SOFTWARE_UPDATE_VERIFYING_ALERT_BODY" = "Verifying update...";
+
+"SOFTWARE_UPDATE_VERIFICATION_FAILED_ALERT_TITLE"  = "Unable to Verify Update";
+"SOFTWARE_UPDATE_VERIFICATION_FAILED_ALERT_BODY"   = "%@ failed verification because you are no longer connected to the Internet.";
+"SOFTWARE_UPDATE_VERIFICATION_FAILED_ALERT_CANCEL" = "Close";
+"SOFTWARE_UPDATE_VERIFICATION_FAILED_ALERT_ACTION" = "Try again";
+
+// Newsstand card icon
+"NEWSSTAND_CARD_TEXT" = "You can download magazines and newspapers in the App Store";
+
+// Relative date strings
+"RELATIVE_DATE_FUTURE_SEC"  = "in %@s";
+"RELATIVE_DATE_FUTURE_MIN"  = "in %@m";
+"RELATIVE_DATE_FUTURE_HOUR" = "in %@h";
+"RELATIVE_DATE_NOW"         = "now";
+"RELATIVE_DATE_PAST_SEC"    = "%@s ago";
+"RELATIVE_DATE_PAST_MIN"    = "%@m ago";
+"RELATIVE_DATE_PAST_HOUR"   = "%@h ago";
+"RELATIVE_DATE_PAST_DAY"    = "%@d ago";
