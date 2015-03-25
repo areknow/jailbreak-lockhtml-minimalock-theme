@@ -1,2 +1,2 @@
-# jailbreak-lockhtml-minimalock-theme
+# Jailbreak LockHTML Minimalock Theme
 Minimalock theme for LockHTML iOS8
